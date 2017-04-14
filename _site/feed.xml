@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-04-14T00:16:36+08:00</updated><id>http://localhost:4000/</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</subtitle><entry><title type="html">MEMBER LIST</title><link href="http://localhost:4000/members/2017/04/13/member-list.html" rel="alternate" type="text/html" title="MEMBER LIST" /><published>2017-04-13T23:56:17+08:00</published><updated>2017-04-13T23:56:17+08:00</updated><id>http://localhost:4000/members/2017/04/13/member-list</id><content type="html" xml:base="http://localhost:4000/members/2017/04/13/member-list.html">&lt;h2 id=&quot;professor-and-visiting-professor&quot;&gt;PROFESSOR AND VISITING PROFESSOR&lt;/h2&gt;
+
+&lt;p&gt;LONG Jiancheng&lt;/p&gt;
+
+&lt;p&gt;Kuner&lt;/p&gt;
+
+&lt;h2 id=&quot;associate-professor&quot;&gt;ASSOCIATE PROFESSOR&lt;/h2&gt;
+
+&lt;p&gt;DING Jianxun&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/members/2017/04/13/liu-haoxiang.html&quot;&gt;LIU Haoxiang&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;assistant-professor&quot;&gt;ASSISTANT PROFESSOR&lt;/h2&gt;
+
+&lt;p&gt;LU Xiaoshan&lt;/p&gt;
+
+&lt;h2 id=&quot;current-student&quot;&gt;CURRENT STUDENT&lt;/h2&gt;
+
+&lt;h3 id=&quot;phd-student&quot;&gt;PHD. STUDENT&lt;/h3&gt;
+
+&lt;h3 id=&quot;master-student&quot;&gt;MASTER STUDENT&lt;/h3&gt;
+
+&lt;h2 id=&quot;previous-student&quot;&gt;PREVIOUS STUDENT&lt;/h2&gt;
+
+&lt;p&gt;GRADUATE YEAR:&lt;/p&gt;
+
+&lt;p&gt;2017    2016   2015&lt;/p&gt;</content><author><name></name></author><summary type="html">PROFESSOR AND VISITING PROFESSOR</summary></entry><entry><title type="html">LIU Haoxiang</title><link href="http://localhost:4000/members/2017/04/13/liu-haoxiang.html" rel="alternate" type="text/html" title="LIU Haoxiang" /><published>2017-04-13T14:45:37+08:00</published><updated>2017-04-13T14:45:37+08:00</updated><id>http://localhost:4000/members/2017/04/13/liu-haoxiang</id><content type="html" xml:base="http://localhost:4000/members/2017/04/13/liu-haoxiang.html">&lt;p&gt;&lt;img src=&quot;/pics/UNADJUSTEDNONRAW_thumb_2f.jpg&quot; alt=&quot;photo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Research Area: Transportation Planning&lt;/p&gt;
+
+&lt;p&gt;Office: #211 Humanities Economy Building, No.193 Tunxi Road&lt;/p&gt;
+
+&lt;p&gt;Email: liuhx.corinna@gmail.com&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.researchgate.net/profile/Haoxiang_Liu&quot;&gt;ResearchGate&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://scholar.google.com.sg/citations?user=TkgV1bcAAAAJ&amp;amp;hl=zh-CN&quot;&gt;Google Scholar&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;academic-history--professional-experienee&quot;&gt;ACADEMIC HISTORY &amp;amp; PROFESSIONAL EXPERIENEE&lt;/h2&gt;
+
+&lt;h3 id=&quot;-education&quot;&gt;➣ EDUCATION:&lt;/h3&gt;
+
+&lt;p&gt;​	BEng. (2009) Central-South University, Changsha, China.&lt;/p&gt;
+
+&lt;p&gt;​	MPhil. (2011) Beijing Jiaotong University, Beijing, China.&lt;/p&gt;
+
+&lt;p&gt;​	PhD. (2016) Nanyang Technological University, Singapore.&lt;/p&gt;
+
+&lt;h3 id=&quot;-career-details&quot;&gt;➣ CAREER DETAILS:&lt;/h3&gt;
+
+&lt;p&gt;​	Assistant Professor (May 2017-Present), Hefei University of Technology&lt;/p&gt;
+
+&lt;p&gt;​	Research Assistant/Research Fellow (Jul 2015-Oct 2016), Nanyang Technological University&lt;/p&gt;
+
+&lt;p&gt;​	Teaching Assistant (Semester 2 of 2013-2014), Nanyang Technological University&lt;/p&gt;
+
+&lt;h3 id=&quot;-research-interest&quot;&gt;➣ RESEARCH INTEREST&lt;/h3&gt;
+
+&lt;p&gt;​	Transportation network modeling and optimisation&lt;/p&gt;
+
+&lt;p&gt;​	Transport infrastructure  planning&lt;/p&gt;
+
+&lt;p&gt;​	Traffic control and management&lt;/p&gt;
+
+&lt;p&gt;​	Global optimization method&lt;/p&gt;
+
+&lt;h2 id=&quot;publications--conferences&quot;&gt;PUBLICATIONS &amp;amp; CONFERENCES&lt;/h2&gt;
+
+&lt;h3 id=&quot;-journal-papers&quot;&gt;➣ JOURNAL PAPERS:&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Liu H.&lt;/strong&gt;, Wang D. Z.W., Global optimization method for network design problem with stochastic user equilibrium, Transportation Research Part B, 2015, 72, 20-39. (&lt;strong&gt;ESI Highly Cited Paper&lt;/strong&gt;)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Wang D. Z.W., &lt;strong&gt;Liu H.&lt;/strong&gt;, Szeto W.Y., A novel discrete network design problem formulation and its global optimization solution algorithm, Transportation Research Part E, 2015, 79, 213-230. (&lt;strong&gt;ESI Highly Cited Paper&lt;/strong&gt;)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Liu, H.&lt;/strong&gt;, Wang, D.Z.W., Locating multiple types of charging facilities for battery electric vehicles. Transportation Research Part B, Available online 27 January, 2017.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Liu, H.&lt;/strong&gt;, Wang, D.Z.W., Modeling and solving discrete network design problem with stochastic user equilibrium, Journal of Advanced Transportation, 2015, 50, 7, 1295-1313.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Wang, D.Z.W., &lt;strong&gt;Liu, H.&lt;/strong&gt;, Szeto, W.Y., Chow, A.H.F., Identification of critical elements in transportation networks – a global optimisation approach, Transportmetrica A, 2016, 12, 4, 346-365.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Liu, H.&lt;/strong&gt;, Wang, D.Z., Yue, H., Global optimization for transport network expansion and signal setting,  Mathematical Problems in Engineering, 2015, Article ID 385713.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Ren, H, &lt;strong&gt;Liu, H.&lt;/strong&gt;, Long, J., Gao, Z., Dynamic user optimal signal design at isolated intersections, Promet-Traffic &amp;amp; Transportation, 2013, 25, 1, pp 13-22.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;-conferences&quot;&gt;➣ CONFERENCES:&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Liu H.&lt;/strong&gt;, Wang D. Z.W., Global optimization approach for combined traffic assignment and signal control, Transportation Research Board 92nd Annual Meeting, 2013, Washington, D.C..&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Liu, H.&lt;/strong&gt;, Wang, D.Z.W., A global optimization method for linearized urban transport network planning: capacity expansion and signal setting, hEART 2014 conference, Leeds, 2014.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Ren, H, &lt;strong&gt;Liu, H.&lt;/strong&gt;, Long, J., Gao, Z., Dynamic user optimal signal design at an intersection, 2011 Fourth International Joint Conference on Computational Sciences and Optimization (CSO), 2011, pp. 1074-1077. (CONFERENCE)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;research-grants-and-projects&quot;&gt;RESEARCH GRANTS AND PROJECTS&lt;/h2&gt;
+
+&lt;h3 id=&quot;-research-grants&quot;&gt;➣ RESEARCH GRANTS:&lt;/h3&gt;
+
+&lt;h3 id=&quot;-current-projects&quot;&gt;➣ CURRENT PROJECTS:&lt;/h3&gt;
+
+&lt;h2 id=&quot;prizes-and-awards&quot;&gt;PRIZES AND AWARDS&lt;/h2&gt;</content><author><name></name></author><summary type="html"></summary></entry></feed>

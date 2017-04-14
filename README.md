@@ -1,2 +1,2 @@
-# HUT-Transport-Group
-Blogs for our Transportation Group of Hefei University of Technology 
+# HFUT-Transport-Group
+Blogs for our Transportation Group of HeFei University of Technology 
